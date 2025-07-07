@@ -41,7 +41,7 @@ All analysis is performed using SQL in PostgreSQL, covering:
 ## Deliverables
 
 - `sql/amazon_analysis_queries.sql`: SQL scripts for all analyses
-- `analysis/analysis_report.pdf`: Final report with query results and business recommendations
+- `presentation.pdf`: Final report with query results and business recommendations
 
 ## Key Insights
 
